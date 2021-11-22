@@ -1,0 +1,11 @@
+@media only screen and (min-width: 250px) and (max-width: 1023px) {
+  .img {
+    width: 100%;
+  }
+  .custom-banner {
+    flex-direction: column;
+  }
+  .div-banner {
+    margin-left: 30px;
+  }
+}
